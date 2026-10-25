@@ -34,7 +34,7 @@ Hi! I'm **Isira Induwara**, a developer from **Sri Lanka**, building websites, A
 
 ## 🚀 Featured Projects
 
-- 🤖 **VES ULTRA MINI BOT** — [View my repositories](https://github.com/isira-induwara?tab=repositories)
+- 🤖 **VES ULTRA MINI BOT** — [View my repositories](https://mini-bot.up.railway.app)
 - 🌐 **AI PROMPT HUB WEB** — [View my repositories](https://github.com/isira-induwara?tab=repositories)
 - 💻 **VES INVASION Portfolio** — [Open website](https://ves-inc.netlify.app)
 
